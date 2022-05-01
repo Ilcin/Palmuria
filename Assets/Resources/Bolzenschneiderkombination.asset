@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d73f9e2de39fa4940a86ef63e4cfda23, type: 3}
+  m_Name: Bolzenschneiderkombination
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 11400000, guid: 2bf3e817f40d648188529adb17ef92c3, type: 2}
+  - {fileID: 11400000, guid: 4ef3eaa57f78e41cc8a61005e8332bae, type: 2}
+  - {fileID: 11400000, guid: 7a1c4df1a5de9443980a8b74bf727c96, type: 2}
+  - {fileID: 11400000, guid: c5cd0a40dc69149ccb6afe1df1470836, type: 2}
+  resultItem: {fileID: 11400000, guid: fbe0b11b87108418196333bb0fed32a8, type: 2}
+  audioClip: {fileID: 8300000, guid: d6d3b0732b49c43c2a6897a127c54f3e, type: 3}
+  message: Das sollte genug sein um einen Bolzenschneider zu bauen.

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 021d94d704abdab4aadadead60b2470f
+timeCreated: 1516820367
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SceneKeiSeeingAgem: {instanceID: 0}
+  - SceneAgemLookingAround: {instanceID: 0}
+  - SceneAgemStealing: {instanceID: 0}
+  - AgemStealingAudio: {instanceID: 0}
+  - obj: {instanceID: 0}
+  - controller: {instanceID: 0}
+  - KeiBreathing: {fileID: 9100000, guid: 2b1676d842c3f7d40822ced6f701f048, type: 2}
+  - KeiSeeingAgem: {instanceID: 0}
+  - AgemStealing: {instanceID: 0}
+  - AgemLookingAround: {instanceID: 0}
+  - keiBreathingClip: {instanceID: 0}
+  - keiProps: {fileID: 11400000, guid: 1b11e5ec5fcfb4c8c8654bd2c608cc4c, type: 2}
+  - agemProps: {fileID: 11400000, guid: afad5b8879a154ce9b5587775cac1c2e, type: 2}
+  - lehrerinProps: {fileID: 11400000, guid: 6caaf66f65c13410585077766a388600, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
