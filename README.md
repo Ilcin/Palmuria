@@ -17,7 +17,7 @@ A demo level to play through the pilot of the story, featuring hand-drawn assets
 An inventory helps the player keep track of their collected items and use it on different interactables throughout the Scene.
 
 ## Issues
-Currently, there are Assembly problems due to a never Unity version
+Currently, there is a persistentscene error due to updating packages
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
